@@ -1,4 +1,10 @@
-### Hi there 👋
+### Work 👷
+
+- 💻 Junior software engineer for Datasensing S.r.l.
+- ⌨️ Embedded dev
+
+### Study 📙
+- 👨‍🎓 Computer Science student for Unimore
 
 <!--
 **fmarzo/fmarzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
