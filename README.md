@@ -4,7 +4,7 @@
 - ⌨️ Embedded dev
 
 ### Study 📙
-- 👨‍🎓 Computer Science student for Unimore
+- 👨‍🎓 Computer Science student for Unimore (Bachelor)
 
 <!--
 **fmarzo/fmarzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
