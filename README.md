@@ -4,7 +4,7 @@
 - ⌨️ Embedded dev
 
 ### Study 📙
-- 👨‍🎓 Artificial Intelligence Engineering Student @UniMoRe 
+- 👨‍🎓 MSc Artificial Intelligence Engineering Student @UniMoRe 
 
 <!--
 **fmarzo/fmarzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
