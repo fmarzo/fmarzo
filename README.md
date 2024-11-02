@@ -1,10 +1,10 @@
 ### Work 👷
 
-- 💻 Junior software engineer for Datasensing S.r.l.
+- 💻 Software engineer @Datasensing S.r.l.
 - ⌨️ Embedded dev
 
 ### Study 📙
-- 👨‍🎓 Computer Science Engineering student for UniMoRe (Bachelor)
+- 👨‍🎓 Artificial Intelligence Engineering Student @UniMoRe 
 
 <!--
 **fmarzo/fmarzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
