@@ -1,7 +1,7 @@
 ### Work 👷
 
-- 💻 Software engineer @Datasensing S.r.l.
-- ⌨️ Embedded dev
+- 💻 Software engineer @Datalogic IP Tech S.r.l.
+- ⌨️ Industrial Embedded developer
 
 ### Study 📙
 - 👨‍🎓 MSc Artificial Intelligence Engineering Student @UniMoRe 
